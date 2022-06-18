@@ -1,5 +1,5 @@
 # Gimnasio-Popeye
-This is a fitness center software developed for my Software Engineering Course.
+This is a fitness center software demo developed for my Software Engineering Course.
 The project was developed using Netbeans IDE v12.5.
 
 Before running the program, main class has to be setted up.
